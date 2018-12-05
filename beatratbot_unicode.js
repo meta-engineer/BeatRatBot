@@ -41,7 +41,8 @@ var luck = 0;
 var userNames = [];
 var userObjects = [];
 
-// ***** Respond to messages *****
+// ********* Main Control Flow   *********
+// ********* Respond to messages *********
 bot.on("message", function(message) {
     // ignore all bots
     // won't spam react emoji to "avrae"
@@ -103,6 +104,8 @@ bot.on("message", function(message) {
 
 });
 
+
+// ********* Supporting Functions **********
 function resetAmoor() { Amoor = false; }
 
 function generateOutputFile(channel, member) {
