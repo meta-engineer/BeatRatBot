@@ -2,7 +2,7 @@
   "name": "BeatRatBot",
   "version": "1.0.0",
   "description": "Likes making beats",
-  "main": "beatratbotio.js",
+  "main": "beatratbot_unicode.js",
   "author": "SD",
   "dependencies": {
     "bufferutil": "^3.0.5",
