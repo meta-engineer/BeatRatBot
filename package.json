@@ -1,0 +1,17 @@
+{
+  "name": "BeatRatBot",
+  "version": "1.0.0",
+  "description": "Likes making beats",
+  "main": "beatratbotio.js",
+  "author": "SD",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "date-utils": "^1.2.21",
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "node-gyp": "^3.7.0",
+    "opusscript": "0.0.6",
+    "rebuild": "^0.1.2",
+    "uws": "^10.148.0"
+  }
+}
